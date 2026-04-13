@@ -24,7 +24,6 @@ OpenClaw 做的事情，就是在大模型外面再包一层：
 
 ## 1.1 OpenClaw 能帮你做什么？
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/01-what-is-openclaw.md#11-openclaw-%E8%83%BD%E5%B8%AE%E4%BD%A0%E5%81%9A%E4%BB%80%E4%B9%88)
 
 这里用几个非常接地气的例子：
 
@@ -60,7 +59,6 @@ OpenClaw 做的事情，就是在大模型外面再包一层：
 
 ## 1.2 和 ChatGPT / Copilot 有什么区别？
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/01-what-is-openclaw.md#12-%E5%92%8C-chatgpt--copilot-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
 用一个简单表格对比（从「一个人」的视角）：
 
@@ -89,7 +87,7 @@ OpenClaw 做的事情，就是在大模型外面再包一层：
 
 ## 1.3 这本书会带你做到什么程度？
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/01-what-is-openclaw.md#13-%E8%BF%99%E6%9C%AC%E4%B9%A6%E4%BC%9A%E5%B8%A6%E4%BD%A0%E5%81%9A%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
+
 
 这本《从零玩转 OpenClaw：中文实战速成手册》，目标不是讲深奥原理，而是帮你达到三个可衡量的结果：
 

@@ -30,8 +30,6 @@
 
 ## 6.2 Skills 一般能做什么？
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/06-skills-basic.md#62-skills-%E4%B8%80%E8%88%AC%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88)
-
 按用途大致可以分为几类（只列常见的）：
 
 - **文件 & 知识类**
@@ -63,8 +61,6 @@
 
 ## 6.3 在哪里发现和查看 Skills？
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/06-skills-basic.md#63-%E5%9C%A8%E5%93%AA%E9%87%8C%E5%8F%91%E7%8E%B0%E5%92%8C%E6%9F%A5%E7%9C%8B-skills)
-
 具体界面随版本可能略有差异，但通常：
 
 - 在 Control UI 里能找到一个「Skills / 扩展 / 插件」类似的页面；
@@ -81,8 +77,6 @@
 ---
 
 ## 6.4 安装与启用 Skills 的通用步骤
-
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/06-skills-basic.md#64-%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E7%94%A8-skills-%E7%9A%84%E9%80%9A%E7%94%A8%E6%AD%A5%E9%AA%A4)
 
 不同 Skill 细节不同，但「套路」相似：
 
@@ -111,8 +105,6 @@
 ---
 
 ## 6.5 新手优先推荐的 Skills 类型
-
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/06-skills-basic.md#65-%E6%96%B0%E6%89%8B%E4%BC%98%E5%85%88%E6%8E%A8%E8%8D%90%E7%9A%84-skills-%E7%B1%BB%E5%9E%8B)
 
 一开始不用装太多，建议优先搞定这几类：
 

@@ -11,7 +11,7 @@
 
 ## 4.1 第一次对话：确认一切正常
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#41-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E8%AF%9D%E7%A1%AE%E8%AE%A4%E4%B8%80%E5%88%87%E6%AD%A3%E5%B8%B8)
+
 
 先在 Control UI（或终端 TUI / IM 渠道）里新建一个会话，测试几条简单指令：
 
@@ -27,7 +27,7 @@
 
 ## 4.2 给 OpenClaw 设定一个简单「人设」
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#42-%E7%BB%99-openclaw-%E8%AE%BE%E5%AE%9A%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E4%BA%BA%E8%AE%BE)
+
 
 为了让它更贴合你的使用习惯，可以先设定一个基础人设。  
 在会话开头粘贴类似这样的提示词（你可以按自己情况修改）：
@@ -52,7 +52,7 @@
 
 ## 4.3 第一个「任务型」指令模板
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#43-%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BB%BB%E5%8A%A1%E5%9E%8B%E6%8C%87%E4%BB%A4%E6%A8%A1%E6%9D%BF)
+
 
 和普通聊天不同，「任务型指令」更像是给助理下达一个可执行任务。  
 一个简单的模板是：
@@ -82,13 +82,11 @@
 
 ## 4.4 三个基础实战小任务
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#44-%E4%B8%89%E4%B8%AA%E5%9F%BA%E7%A1%80%E5%AE%9E%E6%88%98%E5%B0%8F%E4%BB%BB%E5%8A%A1)
 
 下面是三个你可以立刻尝试的小任务，建议真正复制到你的 OpenClaw 里执行一次。
 
 ### 任务 1：帮你规划明天的一天
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#%E4%BB%BB%E5%8A%A1-1%E5%B8%AE%E4%BD%A0%E8%A7%84%E5%88%92%E6%98%8E%E5%A4%A9%E7%9A%84%E4%B8%80%E5%A4%A9)
 
 ```
 背景：我明天有不少事情要做，但还没系统规划时间。
@@ -113,7 +111,7 @@
 
 ### 任务 2：整理你最近的一篇/组笔记
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#%E4%BB%BB%E5%8A%A1-2%E6%95%B4%E7%90%86%E4%BD%A0%E6%9C%80%E8%BF%91%E7%9A%84%E4%B8%80%E7%AF%87%E7%BB%84%E7%AC%94%E8%AE%B0)
+
 
 如果你有一段比较混乱的会议记录、想法草稿，可以这样交给它：
 
@@ -134,7 +132,7 @@
 
 ### 任务 3：为你设计一套「学习 OpenClaw」计划
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#%E4%BB%BB%E5%8A%A1-3%E4%B8%BA%E4%BD%A0%E8%AE%BE%E8%AE%A1%E4%B8%80%E5%A5%97%E5%AD%A6%E4%B9%A0-openclaw%E8%AE%A1%E5%88%92)
+
 
 ```
 背景：我正在按照一本《从零玩转 OpenClaw》的中文教程学习，希望在 7 天内把最重要的功能过一遍。
@@ -157,7 +155,7 @@
 
 ## 4.5 小技巧：和 OpenClaw 配合得更顺畅
 
-[](https://github.com/yesdevcn/openclaw-study-fast/blob/main/docs/04-first-steps.md#45-%E5%B0%8F%E6%8A%80%E5%B7%A7%E5%92%8C-openclaw-%E9%85%8D%E5%90%88%E5%BE%97%E6%9B%B4%E9%A1%BA%E7%95%85)
+
 
 在日常使用中，可以尝试养成几个习惯：
 
