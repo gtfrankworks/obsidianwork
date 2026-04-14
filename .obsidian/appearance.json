@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Blue Topaz",
-  "baseFontSize": 17
+  "cssTheme": "",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "translucency": true
 }
